@@ -1,0 +1,1 @@
+YUI.add('x509-rutoken', function (Y) {})
